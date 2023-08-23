@@ -4,4 +4,7 @@ Sometimes we need to download and get private golang modules which are in compan
 and after that we can get modules with 
 `go get privateModule`.
 
-This image is build from `golang:1.20.1-alpine3.16` and there is `git` installed in it.
+This image is build from `golang:1.21.0-alpine3.18` and there is `git` installed in it.
+Other tags are
+- `1.21.0-alpine3.18-git`
+- `1.20-alpine3.16-git`
